@@ -21,7 +21,7 @@ A simple, unstructured, and unopinionated project for data science that is deplo
 To generate your project run the cookiecutter and follow the prompts
 
 ``` bash
-cookiecutter https://github.com/rh-aiservices-bu/odh-s2i-project-cookiecutter --checkout simple
+cookiecutter https://github.com/opendatahub-io/odh-s2i-project-cookiecutter --checkout simple
 ```
 After you've generated your project, the following project file structure will be created.
 
@@ -40,7 +40,7 @@ After you've generated your project, the following project file structure will b
 └── wsgi.py                 <- basic Flask application
 ```
 
-Follow the project [README.md](https://github.com/rh-aiservices-bu/odh-s2i-project-cookiecutter/blob/simple/%7B%7B%20cookiecutter.repo_name%20%7D%7D/README.md) to create an s2i friendly data science project you can work on in Open Data Hub and deploy to OpenShift.
+Follow the project [README.md](https://github.com/opendatahub-io/odh-s2i-project-cookiecutter/blob/simple/%7B%7B%20cookiecutter.repo_name%20%7D%7D/README.md) to create an s2i friendly data science project you can work on in Open Data Hub and deploy to OpenShift.
 
 
 ### Cookiecutter Data Science ODH Project 
@@ -110,4 +110,4 @@ After you've generated your project, the following project file structure will b
 
 ```
 
-Follow the project [README.md](https://github.com/rh-aiservices-bu/odh-s2i-project-cookiecutter/blob/simple/%7B%7B%20cookiecutter.repo_name%20%7D%7D/README.md) to create an s2i friendly data science project you can work on in Open Data Hub and deploy to OpenShift.
+Follow the project [README.md](https://github.com/opendatahub-io/odh-s2i-project-cookiecutter/blob/simple/%7B%7B%20cookiecutter.repo_name%20%7D%7D/README.md) to create an s2i friendly data science project you can work on in Open Data Hub and deploy to OpenShift.
